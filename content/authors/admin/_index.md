@@ -25,7 +25,8 @@ organizations:
     url: https://www.hitsz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
+Yang Liu received his D.Phil (PhD) degree in Computer Science from University of Oxford (advised by Professor Andrew Simpson) in July 2018. He is currently an Assistant Professor and an Associate Research Fellow in Department of Computer Science and Technology of Harbin Institute of Technology, Shenzhen. He is interested in security and privacy problems and, in particular, the privacy issues on mobile devices. Prior to joining Oxford, He received an MSc in Software Engineering from Peking University and a B.Eng in Computer Science from Ocean University of China.
 # Interests to show in About widget
 interests:
   - Issues of data security and privacy
